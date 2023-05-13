@@ -5,6 +5,6 @@ This webinar was hosted in collaboration with IEEE NTUA SB, IEEE Thessaly-Lamia 
 
 ---
 
-Spiros Maggioros
-Konstantina Marita
+Spiros Maggioros,
+Konstantina Marita, 
 Nikolas Filippatos 
