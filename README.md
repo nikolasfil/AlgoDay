@@ -1,34 +1,34 @@
 ## Algo Day
 
-This webinar was hosted in collaboration with IEEE NTUA SB, IEEE Thessaly-Lamia SB, IEEE Upatras SB and Dr. Euripidi Markou (Associate Professor, Department of Informatics with Applications in Biomedicine). 
-
----
-
-### Resources 
-
-[IEEE Xtemee](https://csacademy.com/ieeextreme-practice/tasks/)
-Past IEEEXtreme Problems for practice.
-
-
-
-[Hackerrank](https://www.hackerrank.com)
-Algorighmic and other Problems.
-
-
-
-[Leet Code](https://leetcode.com/problemset/all/)
-Problems and challenges
-
-
-
-[Project Euler](https://projecteuler.net)
-Mathematical Problems, that can be solved with Programming.
-
-
+Algo Day is an initiative started from the collaboration of IEEE NTUA SB , IEEE NTUA SB, IEEE Thessaly-Lamia SB, IEEE Upatras SB. 
+Spiros Maggioros, Konstantina Marita and Nikolas Filippatos , Leader and coleaders of IEEEXtreme17.0 started this joined webinar series in May 2023. 
 
 
 
 ---
+
+## Past Events 
+
+On 13 May of 2023 we hosted the first AlgoDay 
+
+[Algo Day 1 information](AlgoDay-1/README.md)
+
+
+On 8 October of 2023 we hosted the second Algoday 
+
+[Algo Day 2 Information](AlgoDay-2/README.md)
+
+
+---
+
+## Resources
+
+[Resources](AlgoDay-1/Resources.md)
+
+
+---
+
+### Organizers 
 
 Spiros Maggioros,
 Konstantina Marita, 
